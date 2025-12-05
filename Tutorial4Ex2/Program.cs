@@ -22,10 +22,11 @@ namespace Tutorial4Ex2
         static void Main(string[] args)
         {
             // Create an object of Person
-            Person person1 = new Person("Alex", 20);
+            Person person1 = new Person("Diwash", 22);
 
             // Print values
             Console.WriteLine("Person Information:");
+            Console.Writeliine("THIS IS THE UPDATED VERSION AFTER MAKEING SOME CHANGES.")
             Console.WriteLine("Name: " + person1.Name);
             Console.WriteLine("Age: " + person1.Age);
 
