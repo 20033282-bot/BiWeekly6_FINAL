@@ -1,0 +1,15 @@
+/Users/diwashdhakal/Projects/Tutorial4Ex2/Tutorial4Ex2/obj/Debug/net6.0/Tutorial4Ex2.csproj.AssemblyReference.cache
+/Users/diwashdhakal/Projects/Tutorial4Ex2/Tutorial4Ex2/obj/Debug/net6.0/Tutorial4Ex2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diwashdhakal/Projects/Tutorial4Ex2/Tutorial4Ex2/obj/Debug/net6.0/Tutorial4Ex2.AssemblyInfoInputs.cache
+/Users/diwashdhakal/Projects/Tutorial4Ex2/Tutorial4Ex2/obj/Debug/net6.0/Tutorial4Ex2.AssemblyInfo.cs
+/Users/diwashdhakal/Projects/Tutorial4Ex2/Tutorial4Ex2/obj/Debug/net6.0/Tutorial4Ex2.csproj.CoreCompileInputs.cache
+/Users/diwashdhakal/Projects/Tutorial4Ex2/Tutorial4Ex2/bin/Debug/net6.0/Tutorial4Ex2
+/Users/diwashdhakal/Projects/Tutorial4Ex2/Tutorial4Ex2/bin/Debug/net6.0/Tutorial4Ex2.deps.json
+/Users/diwashdhakal/Projects/Tutorial4Ex2/Tutorial4Ex2/bin/Debug/net6.0/Tutorial4Ex2.runtimeconfig.json
+/Users/diwashdhakal/Projects/Tutorial4Ex2/Tutorial4Ex2/bin/Debug/net6.0/Tutorial4Ex2.dll
+/Users/diwashdhakal/Projects/Tutorial4Ex2/Tutorial4Ex2/bin/Debug/net6.0/Tutorial4Ex2.pdb
+/Users/diwashdhakal/Projects/Tutorial4Ex2/Tutorial4Ex2/obj/Debug/net6.0/Tutorial4Ex2.dll
+/Users/diwashdhakal/Projects/Tutorial4Ex2/Tutorial4Ex2/obj/Debug/net6.0/refint/Tutorial4Ex2.dll
+/Users/diwashdhakal/Projects/Tutorial4Ex2/Tutorial4Ex2/obj/Debug/net6.0/Tutorial4Ex2.pdb
+/Users/diwashdhakal/Projects/Tutorial4Ex2/Tutorial4Ex2/obj/Debug/net6.0/Tutorial4Ex2.genruntimeconfig.cache
+/Users/diwashdhakal/Projects/Tutorial4Ex2/Tutorial4Ex2/obj/Debug/net6.0/ref/Tutorial4Ex2.dll

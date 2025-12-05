@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OALLwjURxcyPNDD7cwWravHKm64qjLAjDwqbRsswcqorE2g5fOmFVBegX4c///Z8pOMU2g2K1/xazIcnf7WfLg==",
+  "success": true,
+  "projectFilePath": "/Users/diwashdhakal/Projects/Tutorial4Ex2/Tutorial4Ex2/Tutorial4Ex2.csproj",
+  "expectedPackageFiles": [
+    "/Users/diwashdhakal/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/diwashdhakal/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/diwashdhakal/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
